@@ -1,0 +1,2 @@
+.container,body,html{margin:0;padding:0}.container{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:900px){.container{grid-template-columns:repeat(3,minmax(300px,1fr))}}.container__block{display:grid;align-items:center;justify-items:center;font-family:Arial,sans-serif;font-size:100px;color:#fff;height:300px}.block-1{background-color:red}.block-2{background-color:#c00}.block-3{background-color:#900}.block-4{background-color:#600}.block-5{background-color:#300}.block-6{background-color:#000}
+/*# sourceMappingURL=main.c4c4e531.css.map */
